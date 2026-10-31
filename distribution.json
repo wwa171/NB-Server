@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.2",
+    "version":  "1.2.3",
     "rss":  "\u003cLINK TO RSS FEED\u003e",
     "discord":  {
                     "clientId":  "\u003cFILL IN OR REMOVE DISCORD OBJECT\u003e",
@@ -12,7 +12,7 @@
                         "name":  "마작귀 서버",
                         "description":  "MC 26.3 / Fabric 0.20.1 / 36 mods (incl. Majakgwi Console)",
                         "icon":  "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
-                        "version":  "1.2.2",
+                        "version":  "1.2.3",
                         "address":  "117.110.40.130:25565",
                         "minecraftVersion":  "26.3",
                         "mainServer":  true,
@@ -441,13 +441,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "kr.majakgwi:console:1.2.1@jar",
+                                            "id":  "kr.majakgwi:console:1.2.2@jar",
                                             "name":  "Majakgwi Console",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  56153,
-                                                             "url":  "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-console-1.2.1.jar",
-                                                             "MD5":  "B7F19F7F886ACAA1977EE0F7CE47379E"
+                                                             "size":  56236,
+                                                             "url":  "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-console-1.2.2.jar",
+                                                             "MD5":  "86087AF3C4BB0F644DB2D2B6DC78F8D7"
                                                          }
                                         }
                                     ],
