@@ -443,20 +443,14 @@
       ],
       "javaOptions": {
         "distribution": "temurin",
-        "supported": [
-          "25",
-          "26"
-        ],
+        "supported": ">=25 <27",
         "suggestedMajor": 25,
         "platformOptions": [
           {
             "platform": "win32",
             "architecture": "x64",
             "distribution": "temurin",
-            "supported": [
-              "25",
-              "26"
-            ],
+            "supported": ">=25 <27",
             "suggestedMajor": 25
           }
         ]
