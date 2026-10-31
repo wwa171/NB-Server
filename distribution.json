@@ -451,13 +451,13 @@
                     }
                 },
                 {
-                    "id": "kr.majakgwi:worldedit:1.0.0@jar",
+                    "id": "kr.majakgwi:worldedit:1.0.1@jar",
                     "name": "Majakgwi WorldEdit",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 26672,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/worldedit-1.0.0.jar",
-                        "MD5": "37f77b68e064b0d5e5ece077321d4c36"
+                        "size": 26847,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/worldedit-1.0.1.jar",
+                        "MD5": "6fcc52db1fdf376a1cc266f52061066d"
                     }
                 }
             ],
