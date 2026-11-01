@@ -1,5 +1,5 @@
 {
-    "version": "1.9.12",
+    "version": "1.9.13",
     "rss": "<LINK TO RSS FEED>",
     "discord": {
         "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
             "name": "마작귀 서버",
             "description": "MC 26.3 / Fabric 0.20.1 / 39 mods",
             "icon": "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
-            "version": "1.9.12",
+            "version": "1.9.13",
             "address": "117.110.40.130:25565",
             "minecraftVersion": "26.3",
             "mainServer": true,
@@ -502,23 +502,23 @@
                     }
                 },
                 {
-                    "id": "kr.majakgwi:npc:1.1.17@jar",
+                    "id": "kr.majakgwi:npc:1.1.18@jar",
                     "name": "Majakgwi NPC",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 123831,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.1.17.jar",
-                        "MD5": "3ee53d81ede8889f65f08a1eb624ff17"
+                        "size": 123887,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.1.18.jar",
+                        "MD5": "2f2a22b5b63553be02daba36044f339b"
                     }
                 },
                 {
-                    "id": "kr.majakgwi:flora:1.0.5@jar",
+                    "id": "kr.majakgwi:flora:1.0.6@jar",
                     "name": "Majakgwi Flora",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 30027,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-flora-1.0.5.jar",
-                        "MD5": "81b00903ca161b51d87e9340b2c3c217"
+                        "size": 29559,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-flora-1.0.6.jar",
+                        "MD5": "793aaa20e721a032778fcdf9562b9dbf"
                     }
                 }
             ],
