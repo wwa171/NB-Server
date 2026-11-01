@@ -1,5 +1,5 @@
 {
-    "version": "1.9.2",
+    "version": "1.9.3",
     "rss": "<LINK TO RSS FEED>",
     "discord": {
         "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
             "name": "마작귀 서버",
             "description": "MC 26.3 / Fabric 0.20.1 / 39 mods",
             "icon": "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
-            "version": "1.9.2",
+            "version": "1.9.3",
             "address": "117.110.40.130:25565",
             "minecraftVersion": "26.3",
             "mainServer": true,
@@ -492,13 +492,13 @@
                     }
                 },
                 {
-                    "id": "kr.majakgwi:bestiary:1.1.0@jar",
+                    "id": "kr.majakgwi:bestiary:1.1.2@jar",
                     "name": "Majakgwi Bestiary",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 61848,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-bestiary-1.1.0.jar",
-                        "MD5": "9a6f3f3f910f2094451133035f475324"
+                        "size": 66683,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-bestiary-1.1.2.jar",
+                        "MD5": "6cbc5a5081684a2f1cc8fce05d135570"
                     }
                 },
                 {
