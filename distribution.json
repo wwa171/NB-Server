@@ -441,13 +441,13 @@
                     }
                 },
                 {
-                    "id": "kr.majakgwi:console:1.4.0@jar",
+                    "id": "kr.majakgwi:console:1.4.1@jar",
                     "name": "Majakgwi Console",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 50279,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-console-1.4.0.jar",
-                        "MD5": "05958c92e0dc5f77dbb61ddda3cf645d"
+                        "size": 50276,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-console-1.4.1.jar",
+                        "MD5": "b56f910e0de295b7b3f24bf08c4e26a1"
                     }
                 },
                 {
