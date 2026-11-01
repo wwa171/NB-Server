@@ -1,5 +1,5 @@
 {
-    "version": "1.9.9",
+    "version": "1.9.10",
     "rss": "<LINK TO RSS FEED>",
     "discord": {
         "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
             "name": "마작귀 서버",
             "description": "MC 26.3 / Fabric 0.20.1 / 39 mods",
             "icon": "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
-            "version": "1.9.9",
+            "version": "1.9.10",
             "address": "117.110.40.130:25565",
             "minecraftVersion": "26.3",
             "mainServer": true,
@@ -512,13 +512,13 @@
                     }
                 },
                 {
-                    "id": "kr.majakgwi:flora:1.0.2@jar",
+                    "id": "kr.majakgwi:flora:1.0.3@jar",
                     "name": "Majakgwi Flora",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 25041,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-flora-1.0.2.jar",
-                        "MD5": "026a4b1a9de843ac658c69a1e26308a4"
+                        "size": 27281,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-flora-1.0.3.jar",
+                        "MD5": "275de5ddaa1b285aae5e76c53727a64e"
                     }
                 }
             ],
