@@ -1,5 +1,5 @@
 {
-    "version": "1.8.5",
+    "version": "1.8.6",
     "rss": "<LINK TO RSS FEED>",
     "discord": {
         "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
             "name": "마작귀 서버",
             "description": "MC 26.3 / Fabric 0.20.1 / 39 mods",
             "icon": "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
-            "version": "1.8.5",
+            "version": "1.8.6",
             "address": "117.110.40.130:25565",
             "minecraftVersion": "26.3",
             "mainServer": true,
@@ -502,13 +502,13 @@
                     }
                 },
                 {
-                    "id": "kr.majakgwi:npc:1.1.7@jar",
+                    "id": "kr.majakgwi:npc:1.1.8@jar",
                     "name": "Majakgwi NPC",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 89207,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.1.7.jar",
-                        "MD5": "56e09c68a7034d93120953032ffc3c4d"
+                        "size": 90082,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.1.8.jar",
+                        "MD5": "4ca4bef67deb0876246c9aaeaf0e9ee3"
                     }
                 }
             ],
