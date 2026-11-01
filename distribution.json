@@ -1,5 +1,5 @@
 {
-    "version": "1.9.1",
+    "version": "1.9.2",
     "rss": "<LINK TO RSS FEED>",
     "discord": {
         "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
             "name": "마작귀 서버",
             "description": "MC 26.3 / Fabric 0.20.1 / 39 mods",
             "icon": "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
-            "version": "1.9.1",
+            "version": "1.9.2",
             "address": "117.110.40.130:25565",
             "minecraftVersion": "26.3",
             "mainServer": true,
@@ -492,23 +492,23 @@
                     }
                 },
                 {
-                    "id": "kr.majakgwi:bestiary:1.0.2@jar",
+                    "id": "kr.majakgwi:bestiary:1.1.0@jar",
                     "name": "Majakgwi Bestiary",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 34010,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-bestiary-1.0.2.jar",
-                        "MD5": "380c374ceda5658f32149e9f06a0a403"
+                        "size": 61848,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-bestiary-1.1.0.jar",
+                        "MD5": "9a6f3f3f910f2094451133035f475324"
                     }
                 },
                 {
-                    "id": "kr.majakgwi:npc:1.1.11@jar",
+                    "id": "kr.majakgwi:npc:1.1.12@jar",
                     "name": "Majakgwi NPC",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 97971,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.1.11.jar",
-                        "MD5": "3a875b00c5a3c02237fd9b18d1f49b20"
+                        "size": 105313,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.1.12.jar",
+                        "MD5": "a41237b24f57d8be26f9e93e6880befe"
                     }
                 }
             ],
