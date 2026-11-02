@@ -1,5 +1,5 @@
 {
-    "version": "1.9.20",
+    "version": "1.9.21",
     "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
     "discord": {
         "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
             "name": "마작귀 서버",
             "description": "MC 26.3 / Fabric 0.20.1 / 39 mods",
             "icon": "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
-            "version": "1.9.20",
+            "version": "1.9.21",
             "address": "117.110.40.130:25565",
             "minecraftVersion": "26.3",
             "mainServer": true,
@@ -519,6 +519,16 @@
                         "size": 29384,
                         "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-flora-1.0.7.jar",
                         "MD5": "5348e80955277150baa0d6c823630de2"
+                    }
+                },
+                {
+                    "id": "maven.modrinth:bobby:5.2.16+mc26.3@jar",
+                    "name": "Bobby",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 867268,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/bobby-5.2.16+mc26.3.jar",
+                        "MD5": "f13def9eeac958aba5ae762283e9defd"
                     }
                 }
             ],
