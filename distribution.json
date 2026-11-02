@@ -1,5 +1,5 @@
 {
-    "version": "1.9.16",
+    "version": "1.9.17",
     "rss": "<LINK TO RSS FEED>",
     "discord": {
         "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
             "name": "마작귀 서버",
             "description": "MC 26.3 / Fabric 0.20.1 / 39 mods",
             "icon": "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
-            "version": "1.9.16",
+            "version": "1.9.17",
             "address": "117.110.40.130:25565",
             "minecraftVersion": "26.3",
             "mainServer": true,
@@ -451,13 +451,13 @@
                     }
                 },
                 {
-                    "id": "kr.majakgwi:worldedit:1.6.1@jar",
+                    "id": "kr.majakgwi:worldedit:1.7.0@jar",
                     "name": "Majakgwi WorldEdit",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 114336,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/worldedit-1.6.1.jar",
-                        "MD5": "99d494d73a56bb05625c16073cc170a4"
+                        "size": 115510,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/worldedit-1.7.0.jar",
+                        "MD5": "81b5f81a765e5e1c7445b9e357f634b8"
                     }
                 },
                 {
@@ -502,13 +502,13 @@
                     }
                 },
                 {
-                    "id": "kr.majakgwi:npc:1.1.19@jar",
+                    "id": "kr.majakgwi:npc:1.2.0@jar",
                     "name": "Majakgwi NPC",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 123886,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.1.19.jar",
-                        "MD5": "342c4a2db1bc541e7dc9695790e011fd"
+                        "size": 179273,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.2.0.jar",
+                        "MD5": "fe6acf1c23bfe0657a544fd26ccd0b15"
                     }
                 },
                 {
