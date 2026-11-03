@@ -1,5 +1,5 @@
 {
-    "version": "1.9.22",
+    "version": "1.9.23",
     "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
     "discord": {
         "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
             "name": "마작귀 서버",
             "description": "MC 26.3 / Fabric 0.20.1 / 39 mods",
             "icon": "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
-            "version": "1.9.22",
+            "version": "1.9.23",
             "address": "117.110.40.130:25565",
             "minecraftVersion": "26.3",
             "mainServer": true,
@@ -451,13 +451,13 @@
                     }
                 },
                 {
-                    "id": "kr.majakgwi:worldedit:1.7.1@jar",
+                    "id": "kr.majakgwi:worldedit:1.7.2@jar",
                     "name": "Majakgwi WorldEdit",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 115532,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/worldedit-1.7.1.jar",
-                        "MD5": "6ce02c68c8512ffbf8235c5a860b3ae5"
+                        "size": 116059,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-worldedit-1.7.2.jar",
+                        "MD5": "f389e6ebed871c341254accdffb8491c"
                     }
                 },
                 {
