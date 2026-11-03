@@ -1,5 +1,5 @@
 {
-    "version": "1.9.21",
+    "version": "1.9.22",
     "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
     "discord": {
         "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -9,10 +9,10 @@
     "servers": [
         {
             "id": "majakgwi-26.3",
-            "name": "마작귀 서버",
+            "name": "留덉옉洹 ?쒕쾭",
             "description": "MC 26.3 / Fabric 0.20.1 / 39 mods",
             "icon": "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
-            "version": "1.9.21",
+            "version": "1.9.22",
             "address": "117.110.40.130:25565",
             "minecraftVersion": "26.3",
             "mainServer": true,
@@ -441,23 +441,23 @@
                     }
                 },
                 {
-                    "id": "kr.majakgwi:console:1.4.1@jar",
+                    "id": "kr.majakgwi:console:1.5.0@jar",
                     "name": "Majakgwi Console",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 50276,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-console-1.4.1.jar",
-                        "MD5": "b56f910e0de295b7b3f24bf08c4e26a1"
+                        "size": 61612,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-console-1.5.0.jar",
+                        "MD5": "3847b408a7459e3895ea708afffb16f2"
                     }
                 },
                 {
-                    "id": "kr.majakgwi:worldedit:1.7.0@jar",
+                    "id": "kr.majakgwi:worldedit:1.7.1@jar",
                     "name": "Majakgwi WorldEdit",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 115510,
-                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/worldedit-1.7.0.jar",
-                        "MD5": "81b5f81a765e5e1c7445b9e357f634b8"
+                        "size": 115532,
+                        "url": "https://github.com/wwa171/NB-Server/releases/download/latest/worldedit-1.7.1.jar",
+                        "MD5": "6ce02c68c8512ffbf8235c5a860b3ae5"
                     }
                 },
                 {
