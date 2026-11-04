@@ -1,5 +1,5 @@
 {
-  "version": "1.9.26",
+  "version": "1.9.27",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "마작귀 서버",
       "description": "MC 26.3 / Fabric 0.20.1 / 39 mods",
       "icon": "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
-      "version": "1.9.26",
+      "version": "1.9.27",
       "address": "117.110.40.130:25565",
       "minecraftVersion": "26.3",
       "mainServer": true,
@@ -492,23 +492,23 @@
           }
         },
         {
-          "id": "kr.majakgwi:bestiary:1.1.6@jar",
+          "id": "kr.majakgwi:bestiary:1.1.7@jar",
           "name": "Majakgwi Bestiary",
           "type": "FabricMod",
           "artifact": {
-            "size": 68891,
-            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-bestiary-1.1.6.jar",
-            "MD5": "aa866bd30cfd32133963876ab49aea2c"
+            "size": 69653,
+            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-bestiary-1.1.7.jar",
+            "MD5": "6c0bec7477d0eed56ebe06cfec6ff3c7"
           }
         },
         {
-          "id": "kr.majakgwi:npc:1.2.15@jar",
+          "id": "kr.majakgwi:npc:1.2.16@jar",
           "name": "Majakgwi NPC",
           "type": "FabricMod",
           "artifact": {
-            "size": 207822,
-            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.2.15.jar",
-            "MD5": "5bc2c12cc465a639551ac538dab5377e"
+            "size": 209149,
+            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.2.16.jar",
+            "MD5": "a83d7f0769eb74e8cdbbd2265be0b7e4"
           }
         },
         {
