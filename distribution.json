@@ -1,5 +1,5 @@
 {
-  "version": "1.9.28",
+  "version": "1.9.29",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "마작귀 서버",
       "description": "MC 26.3 / Fabric 0.20.1 / 39 mods",
       "icon": "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
-      "version": "1.9.28",
+      "version": "1.9.29",
       "address": "117.110.40.130:25565",
       "minecraftVersion": "26.3",
       "mainServer": true,
@@ -441,13 +441,13 @@
           }
         },
         {
-          "id": "kr.majakgwi:console:1.5.2@jar",
+          "id": "kr.majakgwi:console:1.5.3@jar",
           "name": "Majakgwi Console",
           "type": "FabricMod",
           "artifact": {
-            "size": 63483,
-            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-console-1.5.2.jar",
-            "MD5": "f13310a12e936e3ee71579d7d3ac632b"
+            "size": 64644,
+            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-console-1.5.3.jar",
+            "MD5": "61850c48dffa9addbc7d7628dfcbf047"
           }
         },
         {
@@ -502,13 +502,13 @@
           }
         },
         {
-          "id": "kr.majakgwi:npc:1.2.17@jar",
+          "id": "kr.majakgwi:npc:1.2.18@jar",
           "name": "Majakgwi NPC",
           "type": "FabricMod",
           "artifact": {
-            "size": 211345,
-            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.2.17.jar",
-            "MD5": "1eb889ce93315034c5e19fdefaba013f"
+            "size": 214803,
+            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.2.18.jar",
+            "MD5": "c3521dc81b8a8a979835e4a6c448ebb6"
           }
         },
         {
