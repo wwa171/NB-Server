@@ -1,5 +1,5 @@
 {
-  "version": "1.9.27",
+  "version": "1.9.28",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "마작귀 서버",
       "description": "MC 26.3 / Fabric 0.20.1 / 39 mods",
       "icon": "https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png",
-      "version": "1.9.27",
+      "version": "1.9.28",
       "address": "117.110.40.130:25565",
       "minecraftVersion": "26.3",
       "mainServer": true,
@@ -441,13 +441,13 @@
           }
         },
         {
-          "id": "kr.majakgwi:console:1.5.1@jar",
+          "id": "kr.majakgwi:console:1.5.2@jar",
           "name": "Majakgwi Console",
           "type": "FabricMod",
           "artifact": {
-            "size": 63007,
-            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-console-1.5.1.jar",
-            "MD5": "eb055de38fe6da80b8d7086b53d0561d"
+            "size": 63483,
+            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-console-1.5.2.jar",
+            "MD5": "f13310a12e936e3ee71579d7d3ac632b"
           }
         },
         {
@@ -492,23 +492,23 @@
           }
         },
         {
-          "id": "kr.majakgwi:bestiary:1.1.7@jar",
+          "id": "kr.majakgwi:bestiary:1.1.8@jar",
           "name": "Majakgwi Bestiary",
           "type": "FabricMod",
           "artifact": {
-            "size": 69653,
-            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-bestiary-1.1.7.jar",
-            "MD5": "6c0bec7477d0eed56ebe06cfec6ff3c7"
+            "size": 70851,
+            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-bestiary-1.1.8.jar",
+            "MD5": "c3d800571ea531cb58837a30908065ce"
           }
         },
         {
-          "id": "kr.majakgwi:npc:1.2.16@jar",
+          "id": "kr.majakgwi:npc:1.2.17@jar",
           "name": "Majakgwi NPC",
           "type": "FabricMod",
           "artifact": {
-            "size": 209149,
-            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.2.16.jar",
-            "MD5": "a83d7f0769eb74e8cdbbd2265be0b7e4"
+            "size": 211345,
+            "url": "https://github.com/wwa171/NB-Server/releases/download/latest/majakgwi-npc-1.2.17.jar",
+            "MD5": "1eb889ce93315034c5e19fdefaba013f"
           }
         },
         {
