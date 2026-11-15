@@ -1,5 +1,5 @@
 {
-  "version": "1.6.6",
+  "version": "1.6.7",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -4523,13 +4523,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitland.1.0.0:1.0@jar",
-          "name": "sunlitland-1.0.0.jar",
+          "id": "generated.forgemod:sunlitland.1.1.0:1.0@jar",
+          "name": "sunlitland-1.1.0.jar",
           "type": "ForgeMod",
           "artifact": {
-            "size": 91296,
-            "MD5": "1b6b254179df1099b55913d5632668c0",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.0.0.jar"
+            "size": 104789,
+            "MD5": "a724e3cc61073ba8094a4bd8cb2bc5b1",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.1.0.jar"
           }
         }
       ],
