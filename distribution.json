@@ -1,5 +1,5 @@
 {
-  "version": "1.5.5",
+  "version": "1.5.6",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -561,7 +561,7 @@
         {
           "id": "net.minecraftforge:forge:1.20.1-47.4.29",
           "name": "Forge 1.20.1-47.4.29",
-          "type": "Forge",
+          "type": "ForgeHosted",
           "artifact": {
             "size": 2531046,
             "MD5": "1846f000f76fe278744651d091c6af75",
