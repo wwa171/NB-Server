@@ -1,5 +1,5 @@
 {
-  "version": "1.6.8",
+  "version": "1.6.9",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -429,13 +429,33 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitmarket.1.0.0:1.0@jar",
+          "id": "generated.forgemod:sunlitmarket.1.0.1:1.0@jar",
           "name": "Sunlit Personal Market Stall (개인 가판대)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 80155,
-            "MD5": "cc2fd2159ce8790a8076e9ef4330745c",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmarket-1.0.0.jar"
+            "size": 81021,
+            "MD5": "0675c2d3bb7166e8f5f22d195a1d4d95",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmarket-1.0.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sunlitadmin.1.0.0:1.0@jar",
+          "name": "Sunlit Admin & Whitelist Toolkit (화이트리스트·자산조회·금지아이템)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 162112,
+            "MD5": "4d723e63fe5bc4359b801b74b5de941b",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitadmin-1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:voicechat.2.6.22:1.0@jar",
+          "name": "Simple Voice Chat (인게임 보이스 채팅)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4923439,
+            "MD5": "eb56e8bbd1af97c0773bfb7edf9207fa",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/voicechat-forge-1.20.1-2.6.22.jar"
           }
         },
         {
@@ -4003,13 +4023,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitland.1.1.1:1.0@jar",
-          "name": "Sunlit Valley Land Protection (토지 매매 & 보호)",
+          "id": "generated.forgemod:sunlitland.1.1.2:1.0@jar",
+          "name": "Sunlit Valley Land Protection (토지 매매·보호 & 조명 눈 해동)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 104878,
-            "MD5": "f57cd4f540856f3364825ebc22dadde5",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.1.1.jar"
+            "size": 147135,
+            "MD5": "2d2486cd517a7a8fe50bcd61be6e2792",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.1.2.jar"
           }
         }
       ],
