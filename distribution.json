@@ -1,5 +1,5 @@
 {
-  "version": "1.5.9",
+  "version": "1.6.0",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -896,6 +896,46 @@
                 "size": 4848997,
                 "MD5": "75f4c350e4a59847e1a410b21dc35508",
                 "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/forge-1.20.1-47.4.29-client.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.29",
+              "name": "net.minecraftforge:fmlcore:1.20.1-47.4.29",
+              "type": "Library",
+              "artifact": {
+                "size": 118910,
+                "MD5": "edc836e69f8f8cd369ee2af141d089a1",
+                "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/fmlcore-1.20.1-47.4.29.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.29",
+              "name": "net.minecraftforge:javafmllanguage:1.20.1-47.4.29",
+              "type": "Library",
+              "artifact": {
+                "size": 16852,
+                "MD5": "f6ab081b5c75475685af8a321fbd8c02",
+                "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/javafmllanguage-1.20.1-47.4.29.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.29",
+              "name": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.29",
+              "type": "Library",
+              "artifact": {
+                "size": 7395,
+                "MD5": "ac96763a1678006d6f56cb2ffddf9f2c",
+                "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/lowcodelanguage-1.20.1-47.4.29.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.29",
+              "name": "net.minecraftforge:mclanguage:1.20.1-47.4.29",
+              "type": "Library",
+              "artifact": {
+                "size": 4995,
+                "MD5": "7bfaf8fcbb367c5abe9fdbcdf1751884",
+                "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/mclanguage-1.20.1-47.4.29.jar"
               }
             }
           ]
