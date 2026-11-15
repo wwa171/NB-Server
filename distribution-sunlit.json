@@ -1,5 +1,5 @@
 {
-  "version": "1.5.8",
+  "version": "1.5.9",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -326,6 +326,36 @@
                 "size": 170513,
                 "MD5": "cadaa441e6fd463ac1397411a760020d",
                 "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.29/fmlearlydisplay-1.20.1-47.4.29.jar"
+              }
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+              "name": "net.minecraft:client:1.20.1-20230612.114412:srg",
+              "type": "Library",
+              "artifact": {
+                "size": 18842082,
+                "MD5": "8bfacfba4f54cda741019756165c5ecf",
+                "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/client-1.20.1-20230612.114412-srg.jar"
+              }
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+              "name": "net.minecraft:client:1.20.1-20230612.114412:extra",
+              "type": "Library",
+              "artifact": {
+                "size": 10436626,
+                "MD5": "da6bb1a2c23108392fd6c103da40867c",
+                "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/client-1.20.1-20230612.114412-extra.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.4.29:client",
+              "name": "net.minecraftforge:forge:1.20.1-47.4.29:client",
+              "type": "Library",
+              "artifact": {
+                "size": 4848997,
+                "MD5": "75f4c350e4a59847e1a410b21dc35508",
+                "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/forge-1.20.1-47.4.29-client.jar"
               }
             }
           ]
