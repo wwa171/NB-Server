@@ -1,5 +1,5 @@
 {
-  "version": "1.6.4",
+  "version": "1.6.5",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -332,6 +332,7 @@
               "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
               "name": "net.minecraft:client:1.20.1-20230612.114412:srg",
               "type": "Library",
+              "classpath": false,
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
@@ -342,6 +343,7 @@
               "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
               "name": "net.minecraft:client:1.20.1-20230612.114412:extra",
               "type": "Library",
+              "classpath": false,
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
@@ -352,6 +354,7 @@
               "id": "net.minecraftforge:forge:1.20.1-47.4.29:client",
               "name": "net.minecraftforge:forge:1.20.1-47.4.29:client",
               "type": "Library",
+              "classpath": false,
               "artifact": {
                 "size": 4848997,
                 "MD5": "75f4c350e4a59847e1a410b21dc35508",
@@ -362,6 +365,7 @@
               "id": "net.minecraftforge:fmlcore:1.20.1-47.4.29",
               "name": "net.minecraftforge:fmlcore:1.20.1-47.4.29",
               "type": "Library",
+              "classpath": false,
               "artifact": {
                 "size": 118910,
                 "MD5": "edc836e69f8f8cd369ee2af141d089a1",
@@ -372,6 +376,7 @@
               "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.29",
               "name": "net.minecraftforge:javafmllanguage:1.20.1-47.4.29",
               "type": "Library",
+              "classpath": false,
               "artifact": {
                 "size": 16852,
                 "MD5": "f6ab081b5c75475685af8a321fbd8c02",
@@ -382,6 +387,7 @@
               "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.29",
               "name": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.29",
               "type": "Library",
+              "classpath": false,
               "artifact": {
                 "size": 7395,
                 "MD5": "ac96763a1678006d6f56cb2ffddf9f2c",
@@ -392,6 +398,7 @@
               "id": "net.minecraftforge:mclanguage:1.20.1-47.4.29",
               "name": "net.minecraftforge:mclanguage:1.20.1-47.4.29",
               "type": "Library",
+              "classpath": false,
               "artifact": {
                 "size": 4995,
                 "MD5": "7bfaf8fcbb367c5abe9fdbcdf1751884",
@@ -402,6 +409,7 @@
               "id": "net.minecraftforge:forge:1.20.1-47.4.29:universal",
               "name": "net.minecraftforge:forge:1.20.1-47.4.29:universal",
               "type": "Library",
+              "classpath": false,
               "artifact": {
                 "size": 2531046,
                 "MD5": "1846f000f76fe278744651d091c6af75",
@@ -409,6 +417,17 @@
               }
             }
           ]
+        },
+        {
+          "id": "sunlit-valley:pack:overrides",
+          "name": "Sunlit Valley Client Pack Overrides (KubeJS, configs, resourcepacks)",
+          "type": "File",
+          "artifact": {
+            "size": 66302262,
+            "MD5": "68b20f26e9d787384a571a06e1a523c3",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlit-overrides.zip",
+            "path": "sunlit-overrides.zip"
+          }
         },
         {
           "id": "sunlit-valley:shaderpack:complementary",
@@ -423,11 +442,11 @@
         },
         {
           "id": "sunlit-valley:config:bobby",
-          "name": "Bobby config (max render distance 50)",
+          "name": "Bobby config (max render distance 32)",
           "type": "File",
           "artifact": {
-            "size": 466,
-            "MD5": "4257cad7759eecf564862487304e84c2",
+            "size": 463,
+            "MD5": "06ae0bf649a8648709e8b3ab40e0a3fa",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/bobby.toml",
             "path": "config/bobby.toml"
           }
@@ -1121,16 +1140,6 @@
             "size": 231043,
             "MD5": "8c937dbc3b080c36cc46dfe9a80641e4",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/craftingtweaks-forge-1.20.1-18.2.8.jar"
-          }
-        },
-        {
-          "id": "generated.forgemod:crashassistant.forge.1.19.1.20.1.1.11.10:1.0@jar",
-          "name": "CrashAssistant-forge-1.19-1.20.1-1.11.10.jar",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3181623,
-            "MD5": "32c9e89c2fecb46baabe76568158a6d7",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/CrashAssistant-forge-1.19-1.20.1-1.11.10.jar"
           }
         },
         {
@@ -2754,16 +2763,6 @@
           }
         },
         {
-          "id": "generated.forgemod:online.detector.1.20.6.0.0:1.0@jar",
-          "name": "online_detector-1.20-6.0.0.jar",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 183482,
-            "MD5": "7c3232491e7323930e57845fa947279f",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/online_detector-1.20-6.0.0.jar"
-          }
-        },
-        {
           "id": "generated.forgemod:online.detector.forge.1.20.6.0.0:1.0@jar",
           "name": "online_detector-forge-1.20-6.0.0.jar",
           "type": "ForgeMod",
@@ -3871,6 +3870,16 @@
             "size": 254657,
             "MD5": "05bf118cecf2a9a88cb45c24fe35803a",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/waterframes-FORGE-mc1.20.1-v2.1.20.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:watermedia.2.1.37:1.0@jar",
+          "name": "watermedia-2.1.37.jar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37046674,
+            "MD5": "4a09ad3ea22ad258802605b8aa929bbd",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/watermedia-2.1.37.jar"
           }
         },
         {
