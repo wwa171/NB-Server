@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.2",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -60,6 +60,16 @@
             "MD5": "c42147c8ec93ff6b4684daf3057e6953",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/oculus.properties",
             "path": "config/oculus.properties"
+          }
+        },
+        {
+          "id": "generated.forgemod:distanthorizons:3.3.3@jar",
+          "name": "Distant Horizons 3.3.3 (render distance)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27700542,
+            "MD5": "cd391f28811d041063acaaad7fa18323",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/DistantHorizons-3.3.3-1.20.1-fabric-forge.jar"
           }
         },
         {
