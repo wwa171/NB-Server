@@ -1,5 +1,5 @@
 {
-  "version": "1.6.7",
+  "version": "1.6.8",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -957,6 +957,26 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.forgemod:sunlitsize.1.0.0:1.0@jar",
+          "name": "Sunlit Player Size Controller (플레이어 사이즈 조절)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37343,
+            "MD5": "e9ffb686b41d39ff092340fc547ca2d2",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitsize-1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sunlitmarket.1.0.0:1.0@jar",
+          "name": "Sunlit Personal Market Stall (개인 가판대)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 80155,
+            "MD5": "cc2fd2159ce8790a8076e9ef4330745c",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmarket-1.0.0.jar"
+          }
         },
         {
           "id": "sunlit-valley:pack:overrides",
@@ -4523,13 +4543,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitland.1.1.0:1.0@jar",
-          "name": "sunlitland-1.1.0.jar",
+          "id": "generated.forgemod:sunlitland.1.1.1:1.0@jar",
+          "name": "Sunlit Valley Land Protection (토지 매매 & 보호)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 104789,
-            "MD5": "a724e3cc61073ba8094a4bd8cb2bc5b1",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.1.0.jar"
+            "size": 104878,
+            "MD5": "f57cd4f540856f3364825ebc22dadde5",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.1.1.jar"
           }
         }
       ],
