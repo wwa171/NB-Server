@@ -1,5 +1,5 @@
 {
-  "version": "1.5.7",
+  "version": "1.5.8",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "sunlit-valley",
-      "name": "?좊씪?댄떚??諛몃━ (移섏씠移댁?)",
+      "name": "선라이티드 밸리 (치이카와)",
       "description": "MC 1.20.1 / Forge 47.4.29 / Society: Sunlit Valley 4.1.5A + Chiikawa 0.1.4",
       "icon": "https://media.forgecdn.net/avatars/thumbnails/1294/569/256/256/638841429067742687.png",
       "version": "1.0.0",
