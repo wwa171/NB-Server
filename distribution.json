@@ -1,5 +1,5 @@
 {
-  "version": "1.6.2",
+  "version": "1.6.4",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -936,6 +936,16 @@
                 "size": 4995,
                 "MD5": "7bfaf8fcbb367c5abe9fdbcdf1751884",
                 "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/mclanguage-1.20.1-47.4.29.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.4.29:universal",
+              "name": "net.minecraftforge:forge:1.20.1-47.4.29:universal",
+              "type": "Library",
+              "artifact": {
+                "size": 2531046,
+                "MD5": "1846f000f76fe278744651d091c6af75",
+                "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/forge-1.20.1-47.4.29-universal.jar"
               }
             }
           ]
