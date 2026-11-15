@@ -1,5 +1,5 @@
 {
-  "version": "1.5.4",
+  "version": "1.5.5",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -549,7 +549,7 @@
     },
     {
       "id": "sunlit-valley",
-      "name": "선라이티드 밸리 (치이카와)",
+      "name": "?좊씪?댄떚??諛몃━ (移섏씠移댁?)",
       "description": "MC 1.20.1 / Forge 47.4.29 / Society: Sunlit Valley 4.1.5A + Chiikawa 0.1.4",
       "icon": "https://media.forgecdn.net/avatars/thumbnails/1294/569/256/256/638841429067742687.png",
       "version": "1.0.0",
@@ -790,7 +790,7 @@
           "artifact": {
             "size": 95711,
             "MD5": "d125ee698ea9fe6660b83cabd0b1de9d",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/BalloonBox1.20.1(Forge)vs.1.0.3.jar"
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/BalloonBox1.20.1.Forge.vs.1.0.3.jar"
           }
         },
         {
@@ -1110,7 +1110,7 @@
           "artifact": {
             "size": 5551679,
             "MD5": "37f5585d706cda153b34e4c523881fda",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/cluttered-%5BForge%5D-3.0.3-1.20.1.jar"
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/cluttered-.Forge.-3.0.3-1.20.1.jar"
           }
         },
         {
@@ -2190,7 +2190,7 @@
           "artifact": {
             "size": 4046100,
             "MD5": "4e2e590c029999e6d35863268e160fcd",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/HopoBetterMineshaft-%5B1.20.1-1.20.4%5D-1.2.2d.jar"
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/HopoBetterMineshaft-.1.20.1-1.20.4.-1.2.2d.jar"
           }
         },
         {
@@ -2870,7 +2870,7 @@
           "artifact": {
             "size": 21667,
             "MD5": "fa8240906f36683f66de537b34587643",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/Not%20Enough%20Recipe%20Book-FORGE-0.4.1%2B1.20.1.jar"
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/Not.Enough.Recipe.Book-FORGE-0.4.1%2B1.20.1.jar"
           }
         },
         {
@@ -2950,7 +2950,7 @@
           "artifact": {
             "size": 3654692,
             "MD5": "c0ac28c10899d494f0ea8e469b989d50",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/Oreganized%201.20.1-4.3.2.jar"
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/Oreganized.1.20.1-4.3.2.jar"
           }
         },
         {
@@ -4030,7 +4030,7 @@
           "artifact": {
             "size": 94833,
             "MD5": "33e028286f87913beba38bd1322df9d3",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/visual_keybinder-1.20.1%20-%200.1.7.jar"
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/visual_keybinder-1.20.1.-.0.1.7.jar"
           }
         },
         {
