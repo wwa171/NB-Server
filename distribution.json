@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -579,6 +579,28 @@
               }
             }
           ]
+        },
+        {
+          "id": "sunlit-valley:shaderpack:complementary",
+          "name": "Complementary Reimagined 5.6.1 (shaderpack)",
+          "type": "File",
+          "artifact": {
+            "size": 500696,
+            "MD5": "04c822b2da584e21745869190ac653e6",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/ComplementaryReimagined_r5.6.1.zip",
+            "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
+          }
+        },
+        {
+          "id": "sunlit-valley:config:oculus",
+          "name": "Oculus shader config",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "MD5": "c42147c8ec93ff6b4684daf3057e6953",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/oculus.properties",
+            "path": "config/oculus.properties"
+          }
         },
         {
           "id": "generated.forgemod:additional.attributes.1.20.1.1.3.6.all:1.0@jar",
