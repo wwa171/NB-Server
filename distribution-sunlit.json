@@ -1,5 +1,5 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -49,6 +49,17 @@
             "MD5": "04c822b2da584e21745869190ac653e6",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/ComplementaryReimagined_r5.6.1.zip",
             "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
+          }
+        },
+        {
+          "id": "sunlit-valley:config:bobby",
+          "name": "Bobby config (max render distance 50)",
+          "type": "File",
+          "artifact": {
+            "size": 466,
+            "MD5": "ea56d86a07ed55cc1f9118b204e05831",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/bobby.toml",
+            "path": "config/bobby.toml"
           }
         },
         {
