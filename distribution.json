@@ -1,5 +1,5 @@
 {
-  "version": "1.5.3",
+  "version": "1.5.4",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -597,7 +597,7 @@
           "type": "File",
           "artifact": {
             "size": 466,
-            "MD5": "ea56d86a07ed55cc1f9118b204e05831",
+            "MD5": "4257cad7759eecf564862487304e84c2",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/bobby.toml",
             "path": "config/bobby.toml"
           }
