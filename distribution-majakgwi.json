@@ -1,5 +1,5 @@
 {
-  "version": "1.5.8",
+  "version": "1.5.9",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
