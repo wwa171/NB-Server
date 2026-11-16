@@ -1,5 +1,5 @@
 {
-  "version": "1.7.1",
+  "version": "1.8.0",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -429,23 +429,23 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitmarket.1.0.1:1.0@jar",
-          "name": "Sunlit Personal Market Stall (개인 가판대)",
+          "id": "generated.forgemod:sunlitmarket.1.1.0:1.0@jar",
+          "name": "Sunlit Personal & Admin Market (개인·관리자가판대·카테고리·화폐/아이템교환)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 81021,
-            "MD5": "0675c2d3bb7166e8f5f22d195a1d4d95",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmarket-1.0.1.jar"
+            "size": 137796,
+            "MD5": "aab312ba14a313ef95478003b90f8472",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmarket-1.1.0.jar"
           }
         },
         {
-          "id": "generated.forgemod:sunlitadmin.1.0.2:1.0@jar",
-          "name": "Sunlit Admin & Whitelist Toolkit (화이트리스트·자산조회·금지아이템·랜들108족보·이펙트·중복보너스)",
+          "id": "generated.forgemod:sunlitadmin.1.0.3:1.0@jar",
+          "name": "Sunlit Admin & Whitelist Toolkit (한글닉네임·변경권·화이트리스트·자산조회·금지아이템·랜들)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 222018,
-            "MD5": "9f7d8176937c89455c4cab64223ed20b",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitadmin-1.0.2.jar"
+            "size": 254117,
+            "MD5": "f1d2660f148853ac1cea12546672d88e",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitadmin-1.0.3.jar"
           }
         },
         {
@@ -4023,13 +4023,23 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitland.1.1.2:1.0@jar",
-          "name": "Sunlit Valley Land Protection (토지 매매·보호 & 조명 눈 해동)",
+          "id": "generated.forgemod:sunlitland.1.1.3:1.0@jar",
+          "name": "Sunlit Land Registry (토지대장·구매권·보호구역)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 147135,
-            "MD5": "2d2486cd517a7a8fe50bcd61be6e2792",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.1.2.jar"
+            "size": 147190,
+            "MD5": "918224a8693d7d72cf828db3c1204435",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.1.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sunlitcosmetics.1.0.0:1.0@jar",
+          "name": "Sunlit Cosmetics & Pets (Curios 날개·꼬리·동행 부유 펫 13종)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 53752,
+            "MD5": "e8670c34bb9bf29f941c223424040452",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcosmetics-1.0.0.jar"
           }
         }
       ],
