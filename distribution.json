@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -4573,13 +4573,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitcosmetics.1.0.1:1.0@jar",
-          "name": "Sunlit Cosmetics & Pets (Curios 날개·꼬리·동행 부유 펫 13종)",
+          "id": "generated.forgemod:sunlitcosmetics.1.0.2:1.0@jar",
+          "name": "Sunlit Cosmetics & Pets (Curios 헤일로/뿔·고품격 날개·꼬리·동행 부유 펫 17종)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 60057,
-            "MD5": "23e8320c6a5fb5c1ca32a8f01cd7730e",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcosmetics-1.0.1.jar"
+            "size": 80647,
+            "MD5": "ec73fa7d81fbe1a6a1ed81904b14a7cf",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcosmetics-1.0.2.jar"
           }
         }
       ],
