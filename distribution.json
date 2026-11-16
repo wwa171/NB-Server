@@ -1,5 +1,5 @@
 {
-  "version": "1.8.3",
+  "version": "1.8.4",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -969,13 +969,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitmarket.1.1.0:1.0@jar",
-          "name": "Sunlit Personal & Admin Market (개인·관리자가판대·카테고리·화폐/아이템교환)",
+          "id": "generated.forgemod:sunlitmarket.1.2.0:1.0@jar",
+          "name": "Sunlit Market Stall (상점가판대·상점검색·즐겨찾기)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 137796,
-            "MD5": "aab312ba14a313ef95478003b90f8472",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmarket-1.1.0.jar"
+            "size": 171036,
+            "MD5": "9c3f29637292c9bea4b2f03d4d6f7b12",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmarket-1.2.0.jar"
           }
         },
         {
@@ -4563,13 +4563,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitland.1.1.4:1.0@jar",
-          "name": "Sunlit Land Registry (토지대장·구매권·보호구역·진입알림HUD·웨이스톤이용)",
+          "id": "generated.forgemod:sunlitland.1.2.0:1.0@jar",
+          "name": "Sunlit Land Registry (토지대장·방명록·추천·펫보호·HUD)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 153894,
-            "MD5": "49c435bed1b15d18b06bc5caf1fe0955",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.1.4.jar"
+            "size": 192580,
+            "MD5": "fec8527c1bf05685595fd3ae4de63abb",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.2.0.jar"
           }
         },
         {
@@ -4580,6 +4580,36 @@
             "size": 80647,
             "MD5": "ec73fa7d81fbe1a6a1ed81904b14a7cf",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcosmetics-1.0.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sunlitfestival.1.0.0:1.0@jar",
+          "name": "Sunlit Festival (실시간 낚시왕 대회·명예의 전당)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 108376,
+            "MD5": "edd62060ac7d3b35746f5243ca3e366a",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitfestival-1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sunlitmuseum.1.0.0:1.0@jar",
+          "name": "Sunlit Museum (공용 박물관 100종·마을 마일스톤)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 109545,
+            "MD5": "de6d33e8faea10863d9826a89a63e3fd",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmuseum-1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sunlitfortune.1.0.0:1.0@jar",
+          "name": "Sunlit Fortune & Plaza (가챠·복권·소원분수)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 102080,
+            "MD5": "f329aa1b056d2c86a3ca582fff964d31",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitfortune-1.0.0.jar"
           }
         }
       ],
