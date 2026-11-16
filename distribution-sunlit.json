@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -439,13 +439,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitadmin.1.0.1:1.0@jar",
-          "name": "Sunlit Admin & Whitelist Toolkit (화이트리스트·자산조회·금지아이템·랜들108족보)",
+          "id": "generated.forgemod:sunlitadmin.1.0.2:1.0@jar",
+          "name": "Sunlit Admin & Whitelist Toolkit (화이트리스트·자산조회·금지아이템·랜들108족보·이펙트·중복보너스)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 206277,
-            "MD5": "8d23f229a96c8bcd60e1872323c3b716",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitadmin-1.0.1.jar"
+            "size": 222018,
+            "MD5": "9f7d8176937c89455c4cab64223ed20b",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitadmin-1.0.2.jar"
           }
         },
         {
