@@ -1,5 +1,5 @@
 {
-  "version": "1.8.2",
+  "version": "1.8.3",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -4023,13 +4023,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitland.1.1.3:1.0@jar",
-          "name": "Sunlit Land Registry (토지대장·구매권·보호구역)",
+          "id": "generated.forgemod:sunlitland.1.1.4:1.0@jar",
+          "name": "Sunlit Land Registry (토지대장·구매권·보호구역·진입알림HUD·웨이스톤이용)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 147190,
-            "MD5": "918224a8693d7d72cf828db3c1204435",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.1.3.jar"
+            "size": 153894,
+            "MD5": "49c435bed1b15d18b06bc5caf1fe0955",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.1.4.jar"
           }
         },
         {
