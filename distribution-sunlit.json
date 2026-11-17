@@ -1,5 +1,5 @@
 {
-  "version": "1.8.6",
+  "version": "1.8.7",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -4027,8 +4027,8 @@
           "name": "Sunlit Land Registry (토지대장·방명록·추천·펫보호·HUD)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 192580,
-            "MD5": "fec8527c1bf05685595fd3ae4de63abb",
+            "size": 192688,
+            "MD5": "df6feb219ec3f84e8a32317964702e2f",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.2.0.jar"
           }
         },
@@ -4077,8 +4077,8 @@
           "name": "Sunlit Forging (고순도 광물 세공·장비 강화)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 97034,
-            "MD5": "77ee39d612165a15f4e5b0347c24fbc6",
+            "size": 148199,
+            "MD5": "16ea6bfbf4b65fbf64de5cde2b95328f",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitforging-1.0.0.jar"
           }
         }
