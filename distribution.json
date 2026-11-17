@@ -1,5 +1,5 @@
 {
-  "version": "1.8.4",
+  "version": "1.8.5",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -4610,6 +4610,16 @@
             "size": 102080,
             "MD5": "f329aa1b056d2c86a3ca582fff964d31",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitfortune-1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sunlitforging.1.0.0:1.0@jar",
+          "name": "Sunlit Forging (고순도 광물 세공·장비 강화)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96520,
+            "MD5": "dcba4e2200e24d2ece11c25a8169d8ad",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitforging-1.0.0.jar"
           }
         }
       ],
