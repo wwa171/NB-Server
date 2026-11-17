@@ -1,5 +1,5 @@
 {
-  "version": "1.8.5",
+  "version": "1.8.6",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -4607,8 +4607,8 @@
           "name": "Sunlit Fortune & Plaza (가챠·복권·소원분수)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 102080,
-            "MD5": "f329aa1b056d2c86a3ca582fff964d31",
+            "size": 102530,
+            "MD5": "733fb4bb1e7134e5487767b3a85f0d12",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitfortune-1.0.0.jar"
           }
         },
@@ -4617,8 +4617,8 @@
           "name": "Sunlit Forging (고순도 광물 세공·장비 강화)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 96520,
-            "MD5": "dcba4e2200e24d2ece11c25a8169d8ad",
+            "size": 97034,
+            "MD5": "77ee39d612165a15f4e5b0347c24fbc6",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitforging-1.0.0.jar"
           }
         }
