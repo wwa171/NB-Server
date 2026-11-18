@@ -1,5 +1,5 @@
 {
-  "version": "1.9.1",
+  "version": "1.9.2",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -979,13 +979,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitadmin.1.0.4:1.0@jar",
+          "id": "generated.forgemod:sunlitadmin.1.0.6:1.0@jar",
           "name": "Sunlit Admin & Whitelist Toolkit (유저통합관리·보안PIN·닉네임·화이트리스트·자산조회·금지아이템·랜들)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 334530,
-            "MD5": "f2af609a6fa140fe8bb872738608c134",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitadmin-1.0.4.jar"
+            "size": 370735,
+            "MD5": "906d92a947f14773455f63399f887c2b",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitadmin-1.0.6.jar"
           }
         },
         {
@@ -4613,23 +4613,23 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitforging.1.0.1:1.0@jar",
+          "id": "generated.forgemod:sunlitforging.1.0.2:1.0@jar",
           "name": "Sunlit Forging (고순도 광물 세공·장비 강화)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 155879,
-            "MD5": "a2777d93b9524a8230d7d25a75b1b783",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitforging-1.0.1.jar"
+            "size": 156114,
+            "MD5": "6764fdc0faf96a4d864c4a85ba60c2c6",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitforging-1.0.2.jar"
           }
         },
         {
-          "id": "generated.forgemod:sunlitcombat.1.0.2:1.0@jar",
+          "id": "generated.forgemod:sunlitcombat.1.0.3:1.0@jar",
           "name": "Sunlit Combat Expedition (고대 유적 전투 대륙·보스·고대 무기고)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 287713,
-            "MD5": "478007d2d158a86540715331c3c2f418",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.2.jar"
+            "size": 343640,
+            "MD5": "2fa0550a09575ceae1506ab7eaccfd6c",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.3.jar"
           }
         }
       ],
