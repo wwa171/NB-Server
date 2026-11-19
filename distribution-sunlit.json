@@ -1,5 +1,5 @@
 {
-  "version": "1.9.3",
+  "version": "1.9.4",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -463,8 +463,8 @@
           "name": "Sunlit Valley Client Pack Overrides (KubeJS, configs, resourcepacks)",
           "type": "File",
           "artifact": {
-            "size": 66290941,
-            "MD5": "ece32eb8193b3b86f95a94e10bf9d98e",
+            "size": 66292110,
+            "MD5": "2fd7e00c98566caebc1035f9da10e9e6",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlit-overrides.zip",
             "path": "sunlit-overrides.zip"
           }
@@ -4023,13 +4023,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitland.1.2.1:1.0@jar",
+          "id": "generated.forgemod:sunlitland.1.2.2:1.0@jar",
           "name": "Sunlit Land Registry (토지대장·방명록·추천·펫보호·HUD)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 192531,
-            "MD5": "0a376f1e5a82f4e036b3b1fa5ff7825b",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.2.1.jar"
+            "size": 192726,
+            "MD5": "9216af4506f14640df6d1246de10a462",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.2.2.jar"
           }
         },
         {
@@ -4083,23 +4083,23 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitcombat.1.0.4:1.0@jar",
+          "id": "generated.forgemod:sunlitcombat.1.0.5:1.0@jar",
           "name": "Sunlit Combat Expedition (고대 유적 전투 대륙·보스·고대 무기고)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 455186,
-            "MD5": "8df6e3b8afae3d858a361e016eaef683",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.4.jar"
+            "size": 463766,
+            "MD5": "6e5804c08a4eed26247b783a38017b98",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.5.jar"
           }
         },
         {
-          "id": "generated.forgemod:sunliterrand.1.0.0:1.0@jar",
+          "id": "generated.forgemod:sunliterrand.1.0.1:1.0@jar",
           "name": "Sunlit Errand Board (마을 의뢰 게시판)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 108881,
-            "MD5": "ec8ef533c2a57a6ef67df836ebb7d292",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunliterrand-1.0.0.jar"
+            "size": 109674,
+            "MD5": "cb88fce638b272e16192fc11bf16a2a9",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunliterrand-1.0.1.jar"
           }
         }
       ],
