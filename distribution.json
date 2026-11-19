@@ -1,5 +1,5 @@
 {
-  "version": "1.9.2",
+  "version": "1.9.3",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -979,13 +979,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitadmin.1.0.6:1.0@jar",
+          "id": "generated.forgemod:sunlitadmin.1.0.7:1.0@jar",
           "name": "Sunlit Admin & Whitelist Toolkit (유저통합관리·보안PIN·닉네임·화이트리스트·자산조회·금지아이템·랜들)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 370735,
-            "MD5": "906d92a947f14773455f63399f887c2b",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitadmin-1.0.6.jar"
+            "size": 399744,
+            "MD5": "48c08ab6ed7d19840c7c2de4931407b2",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitadmin-1.0.7.jar"
           }
         },
         {
@@ -1003,8 +1003,8 @@
           "name": "Sunlit Valley Client Pack Overrides (KubeJS, configs, resourcepacks)",
           "type": "File",
           "artifact": {
-            "size": 66284301,
-            "MD5": "2a5b3ef90868efcf610f3cf0db6904de",
+            "size": 66290941,
+            "MD5": "ece32eb8193b3b86f95a94e10bf9d98e",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlit-overrides.zip",
             "path": "sunlit-overrides.zip"
           }
@@ -4593,13 +4593,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitmuseum.1.0.0:1.0@jar",
+          "id": "generated.forgemod:sunlitmuseum.1.0.1:1.0@jar",
           "name": "Sunlit Museum (공용 박물관 100종·마을 마일스톤)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 109545,
-            "MD5": "de6d33e8faea10863d9826a89a63e3fd",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmuseum-1.0.0.jar"
+            "size": 111706,
+            "MD5": "eccedd4de26becc83504a225f15a918a",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmuseum-1.0.1.jar"
           }
         },
         {
@@ -4613,23 +4613,33 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitforging.1.0.2:1.0@jar",
+          "id": "generated.forgemod:sunlitforging.1.0.3:1.0@jar",
           "name": "Sunlit Forging (고순도 광물 세공·장비 강화)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 156114,
-            "MD5": "6764fdc0faf96a4d864c4a85ba60c2c6",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitforging-1.0.2.jar"
+            "size": 156466,
+            "MD5": "02344d4f8f8fbda8fcbf92c6084f65f9",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitforging-1.0.3.jar"
           }
         },
         {
-          "id": "generated.forgemod:sunlitcombat.1.0.3:1.0@jar",
+          "id": "generated.forgemod:sunlitcombat.1.0.4:1.0@jar",
           "name": "Sunlit Combat Expedition (고대 유적 전투 대륙·보스·고대 무기고)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 343640,
-            "MD5": "2fa0550a09575ceae1506ab7eaccfd6c",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.3.jar"
+            "size": 455186,
+            "MD5": "8df6e3b8afae3d858a361e016eaef683",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sunliterrand.1.0.0:1.0@jar",
+          "name": "Sunlit Errand Board (마을 의뢰 게시판)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 108881,
+            "MD5": "ec8ef533c2a57a6ef67df836ebb7d292",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunliterrand-1.0.0.jar"
           }
         }
       ],
