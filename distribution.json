@@ -1,5 +1,5 @@
 {
-  "version": "1.9.4",
+  "version": "1.9.5",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -4613,23 +4613,23 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitforging.1.0.3:1.0@jar",
+          "id": "generated.forgemod:sunlitforging.1.0.4:1.0@jar",
           "name": "Sunlit Forging (고순도 광물 세공·장비 강화)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 156466,
-            "MD5": "02344d4f8f8fbda8fcbf92c6084f65f9",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitforging-1.0.3.jar"
+            "size": 157917,
+            "MD5": "ae518c830d5347326ba20b9b14626918",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitforging-1.0.4.jar"
           }
         },
         {
-          "id": "generated.forgemod:sunlitcombat.1.0.5:1.0@jar",
+          "id": "generated.forgemod:sunlitcombat.1.0.6:1.0@jar",
           "name": "Sunlit Combat Expedition (고대 유적 전투 대륙·보스·고대 무기고)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 463766,
-            "MD5": "6e5804c08a4eed26247b783a38017b98",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.5.jar"
+            "size": 477668,
+            "MD5": "44b49c9b198ae0df44d90531254ab750",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.6.jar"
           }
         },
         {
