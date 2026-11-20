@@ -1,5 +1,5 @@
 {
-  "version": "1.9.5",
+  "version": "1.9.6",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -429,13 +429,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitmarket.1.2.0:1.0@jar",
+          "id": "generated.forgemod:sunlitmarket.1.2.1:1.0@jar",
           "name": "Sunlit Market Stall (상점가판대·상점검색·즐겨찾기)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 171036,
-            "MD5": "9c3f29637292c9bea4b2f03d4d6f7b12",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmarket-1.2.0.jar"
+            "size": 172057,
+            "MD5": "7e6d24a623d4aa4d6beb0b3b5af4f934",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmarket-1.2.1.jar"
           }
         },
         {
@@ -4053,53 +4053,53 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitmuseum.1.0.1:1.0@jar",
+          "id": "generated.forgemod:sunlitmuseum.1.0.2:1.0@jar",
           "name": "Sunlit Museum (공용 박물관 100종·마을 마일스톤)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 111706,
-            "MD5": "eccedd4de26becc83504a225f15a918a",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmuseum-1.0.1.jar"
+            "size": 112089,
+            "MD5": "f5690ef210d70c0ae7e972ec4e9fa4f1",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmuseum-1.0.2.jar"
           }
         },
         {
-          "id": "generated.forgemod:sunlitfortune.1.0.0:1.0@jar",
+          "id": "generated.forgemod:sunlitfortune.1.0.1:1.0@jar",
           "name": "Sunlit Fortune & Plaza (가챠·복권·소원분수)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 102530,
-            "MD5": "733fb4bb1e7134e5487767b3a85f0d12",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitfortune-1.0.0.jar"
+            "size": 137415,
+            "MD5": "cd3c4c651c4ae2ea8342157278a59bc9",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitfortune-1.0.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:sunlitforging.1.0.4:1.0@jar",
+          "id": "generated.forgemod:sunlitforging.1.0.5:1.0@jar",
           "name": "Sunlit Forging (고순도 광물 세공·장비 강화)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 157917,
-            "MD5": "ae518c830d5347326ba20b9b14626918",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitforging-1.0.4.jar"
+            "size": 161933,
+            "MD5": "e5d1a014391387c284ac0952bee06331",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitforging-1.0.5.jar"
           }
         },
         {
-          "id": "generated.forgemod:sunlitcombat.1.0.6:1.0@jar",
+          "id": "generated.forgemod:sunlitcombat.1.0.7:1.0@jar",
           "name": "Sunlit Combat Expedition (고대 유적 전투 대륙·보스·고대 무기고)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 477668,
-            "MD5": "44b49c9b198ae0df44d90531254ab750",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.6.jar"
+            "size": 493209,
+            "MD5": "978eeab369c9f5a7a6d6b80c3cc8095d",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.7.jar"
           }
         },
         {
-          "id": "generated.forgemod:sunliterrand.1.0.1:1.0@jar",
+          "id": "generated.forgemod:sunliterrand.1.0.2:1.0@jar",
           "name": "Sunlit Errand Board (마을 의뢰 게시판)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 109674,
-            "MD5": "cb88fce638b272e16192fc11bf16a2a9",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunliterrand-1.0.1.jar"
+            "size": 114338,
+            "MD5": "c2a085cced6fe2c1e72e8284d3ae6068",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunliterrand-1.0.2.jar"
           }
         }
       ],
