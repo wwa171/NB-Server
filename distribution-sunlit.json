@@ -1,5 +1,5 @@
 {
-  "version": "1.9.7",
+  "version": "1.9.8",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -4103,13 +4103,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitguardian.1.0.0:1.0@jar",
+          "id": "generated.forgemod:sunlitguardian.1.0.1:1.0@jar",
           "name": "Sunlit Guardian Tree (마을 수호수)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 67001,
-            "MD5": "28f3eb7ca68b7f6c8516e492d463c877",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitguardian-1.0.0.jar"
+            "size": 67501,
+            "MD5": "c19807040b55ad1b34a349ae303e3f4c",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitguardian-1.0.1.jar"
           }
         }
       ],
