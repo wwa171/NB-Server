@@ -1,5 +1,5 @@
 {
-  "version": "1.9.6",
+  "version": "1.9.7",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -4053,23 +4053,23 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitmuseum.1.0.2:1.0@jar",
+          "id": "generated.forgemod:sunlitmuseum.1.0.3:1.0@jar",
           "name": "Sunlit Museum (공용 박물관 100종·마을 마일스톤)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 112089,
-            "MD5": "f5690ef210d70c0ae7e972ec4e9fa4f1",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmuseum-1.0.2.jar"
+            "size": 112080,
+            "MD5": "8cd0752e1278e767072840b763488050",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitmuseum-1.0.3.jar"
           }
         },
         {
-          "id": "generated.forgemod:sunlitfortune.1.0.1:1.0@jar",
+          "id": "generated.forgemod:sunlitfortune.1.0.2:1.0@jar",
           "name": "Sunlit Fortune & Plaza (가챠·복권·소원분수)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 137415,
-            "MD5": "cd3c4c651c4ae2ea8342157278a59bc9",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitfortune-1.0.1.jar"
+            "size": 137505,
+            "MD5": "3052fdc81fea80513c2032b8a374b599",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitfortune-1.0.2.jar"
           }
         },
         {
@@ -4083,13 +4083,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitcombat.1.0.7:1.0@jar",
+          "id": "generated.forgemod:sunlitcombat.1.0.8:1.0@jar",
           "name": "Sunlit Combat Expedition (고대 유적 전투 대륙·보스·고대 무기고)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 493209,
-            "MD5": "978eeab369c9f5a7a6d6b80c3cc8095d",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.7.jar"
+            "size": 499919,
+            "MD5": "190b60b83b8667072e5cf8ea5e9f22f8",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.8.jar"
           }
         },
         {
@@ -4100,6 +4100,16 @@
             "size": 114338,
             "MD5": "c2a085cced6fe2c1e72e8284d3ae6068",
             "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunliterrand-1.0.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sunlitguardian.1.0.0:1.0@jar",
+          "name": "Sunlit Guardian Tree (마을 수호수)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 67001,
+            "MD5": "28f3eb7ca68b7f6c8516e492d463c877",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitguardian-1.0.0.jar"
           }
         }
       ],
