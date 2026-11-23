@@ -1,5 +1,5 @@
 {
-  "version": "1.9.9",
+  "version": "1.9.10",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -4563,13 +4563,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitland.1.2.2:1.0@jar",
+          "id": "generated.forgemod:sunlitland.1.2.3:1.0@jar",
           "name": "Sunlit Land Registry (토지대장·방명록·추천·펫보호·HUD)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 192726,
-            "MD5": "9216af4506f14640df6d1246de10a462",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.2.2.jar"
+            "size": 192846,
+            "MD5": "36b04ccd2027cd0c009dcfab56f061e2",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitland-1.2.3.jar"
           }
         },
         {
@@ -4643,13 +4643,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitguardian.1.0.2:1.0@jar",
+          "id": "generated.forgemod:sunlitguardian.1.0.4:1.0@jar",
           "name": "Sunlit Guardian Tree (마을 수호수)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 68866,
-            "MD5": "eaef7f9a35e6b98cf49ec78850b6c183",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitguardian-1.0.2.jar"
+            "size": 69805,
+            "MD5": "7f20a7077256b5e5f9c9bbb6d70eb772",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitguardian-1.0.4.jar"
           }
         }
       ],
