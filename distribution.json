@@ -1,5 +1,5 @@
 {
-  "version": "1.9.10",
+  "version": "1.9.11",
   "rss": "https://raw.githubusercontent.com/wwa171/majakgwi-launcher/main/news.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -4623,13 +4623,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitcombat.1.0.8:1.0@jar",
+          "id": "generated.forgemod:sunlitcombat.1.0.9:1.0@jar",
           "name": "Sunlit Combat Expedition (고대 유적 전투 대륙·보스·고대 무기고)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 499919,
-            "MD5": "190b60b83b8667072e5cf8ea5e9f22f8",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.8.jar"
+            "size": 500883,
+            "MD5": "39b8cec1c6304bed07ea2eb9c1d6dc0a",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitcombat-1.0.9.jar"
           }
         },
         {
@@ -4643,13 +4643,13 @@
           }
         },
         {
-          "id": "generated.forgemod:sunlitguardian.1.0.4:1.0@jar",
+          "id": "generated.forgemod:sunlitguardian.1.0.5:1.0@jar",
           "name": "Sunlit Guardian Tree (마을 수호수)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 69805,
-            "MD5": "7f20a7077256b5e5f9c9bbb6d70eb772",
-            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitguardian-1.0.4.jar"
+            "size": 69804,
+            "MD5": "fbe6433f4110048abedd54442ca6536b",
+            "url": "https://github.com/wwa171/NB-Server/releases/download/sunlit-valley/sunlitguardian-1.0.5.jar"
           }
         }
       ],
